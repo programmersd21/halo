@@ -23,16 +23,18 @@ Recommended terminals: Windows Terminal, WezTerm, Alacritty, kitty, Ghostty, iTe
 
 ## Installation
 
-```bash
-pip install halo
-```
-
 From source:
 
 ```bash
 git clone https://github.com/programmersd21/halo
 cd halo
 pip install -e .
+```
+
+or shorter:
+
+```bash
+pip install git+https://github.com/programmersd21/halo.git
 ```
 
 ## Usage
